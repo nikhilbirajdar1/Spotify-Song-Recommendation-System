@@ -1,0 +1,6 @@
+pandas
+numpy
+spotipy
+scikit-learn
+pillow
+tkinter
